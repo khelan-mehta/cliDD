@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 import { AppSidebar } from "@/components/AppSidebar";
 import { ProtectedRoute } from "@/components/ProtectedRoute";
-import Chatbot from "@/components/ChatBot";
+import Chatbot from "@/components/Chatbot";
 import { AuthService } from "@/lib/auth";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
