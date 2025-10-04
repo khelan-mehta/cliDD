@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://serverddd.vercel.app/api/v1';
+const API_BASE_URL = 'https://serverddd.vercel.app';
 
 interface AuthResponse {
   token: string;
